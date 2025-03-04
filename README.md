@@ -1,7 +1,7 @@
 # HTML-CSS-JS
 =>I have created these projects by using an API.
 
->>>>Projects List:>>>>
+>>>>Projects List:
 
 
 1. Recipe App :
