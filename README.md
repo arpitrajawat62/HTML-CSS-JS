@@ -1,14 +1,19 @@
-# HTML-CSS-JS
-=>I have created these projects by using an API.
 
->>>>Projects List:
+# HTML-CSS-JS Projects
+
+These projects were created using APIs.
+
+## Project List:
+
+### 1. Recipe App
+
+This app allows you to search for recipes using an API. Try searching for dishes like cake, pasta, pizza, egg, chicken, etc.
+
+[Visit Recipe App]("https://Recipe%20App/index.html")
 
 
-1. Recipe App :
-   This is build with the help of search API u can visit it 
+### 2. Weather App
 
-   file:///C:/Users/arpit/OneDrive/Desktop/API/HTML-CSS-JS/Recipe%20App/index.html 
-   
-   and search some recipe like cake,pasta,pizza,egg,chicken,etc. 
+This app provides current weather information for any city using an API.
 
-
+[Visit Weather App]("https://Weather%20App/index.html")
