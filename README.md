@@ -9,7 +9,7 @@ These projects were created using APIs.
 
 This app allows you to search for recipes using an API. Try searching for dishes like cake, pasta, pizza, egg, chicken, etc.
 
-[Visit Recipe App]("https://Recipe%20App/index.html")
+[Visit Recipe App](https://classy-starburst-6d2e15.netlify.app/)
 
 
 ### 2. Weather App
