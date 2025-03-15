@@ -16,4 +16,4 @@ This app allows you to search for recipes using an API. Try searching for dishes
 
 This app provides current weather information for any city using an API.
 
-[Visit Weather App]("https://Weather%20App/index.html")
+[Visit Weather App](https://classy-starburst-6d2e15.netlify.app/)
